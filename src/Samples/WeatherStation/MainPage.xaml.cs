@@ -44,6 +44,8 @@ namespace WeatherStation
             timer.Tick += Timer_Tick;
 
             deviceClient = DeviceClient.CreateFromConnectionString(DeviceConnectionString, TransportType.Mqtt);
+
+            InitSenseHat();
         }
 
         private async void InitSenseHat()
