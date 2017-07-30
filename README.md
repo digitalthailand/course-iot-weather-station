@@ -9,3 +9,7 @@
 * Download and install `node.js` from [Node.js Official Site](https://nodejs.org/en/)
 * Run the following command `npm install -g iothub-explorer`.
 * To monitor events use the command `iothub-explorer monitor-events {device id} -l {service connection string}`.
+
+## Links
+* [Digital Thailand Club (fb)](https://www.facebook.com/digitalthailandclub)
+* [Microsoft Azure](https://azure.com)
