@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoLight", "DiscoLight\DiscoLight.csproj", "{12A48D4C-2B82-4D3F-8D4E-90DDB0725E02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherStation", "WeatherStation\WeatherStation.csproj", "{F3A7636B-A732-456F-86F3-68C1E2D787AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -33,6 +35,24 @@ Global
 		{12A48D4C-2B82-4D3F-8D4E-90DDB0725E02}.Release|x86.ActiveCfg = Release|x86
 		{12A48D4C-2B82-4D3F-8D4E-90DDB0725E02}.Release|x86.Build.0 = Release|x86
 		{12A48D4C-2B82-4D3F-8D4E-90DDB0725E02}.Release|x86.Deploy.0 = Release|x86
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|ARM.Build.0 = Debug|ARM
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|ARM.Deploy.0 = Debug|ARM
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|x64.ActiveCfg = Debug|x64
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|x64.Build.0 = Debug|x64
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|x64.Deploy.0 = Debug|x64
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|x86.ActiveCfg = Debug|x86
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|x86.Build.0 = Debug|x86
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Debug|x86.Deploy.0 = Debug|x86
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|ARM.ActiveCfg = Release|ARM
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|ARM.Build.0 = Release|ARM
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|ARM.Deploy.0 = Release|ARM
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|x64.ActiveCfg = Release|x64
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|x64.Build.0 = Release|x64
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|x64.Deploy.0 = Release|x64
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|x86.ActiveCfg = Release|x86
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|x86.Build.0 = Release|x86
+		{F3A7636B-A732-456F-86F3-68C1E2D787AF}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
