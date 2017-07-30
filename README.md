@@ -10,6 +10,10 @@
 * Run the following command `npm install -g iothub-explorer`.
 * To monitor events use the command `iothub-explorer monitor-events {device id} -l {service connection string}`.
 
+## Online Simulator
+* [Raspberry Pi Web Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/build/index.html)
+
 ## Links
 * [Digital Thailand Club (fb)](https://www.facebook.com/digitalthailandclub)
 * [Microsoft Azure](https://azure.com)
+* [Lab Sheet](https://tlaothong.gitbooks.io/iot-workshop-weather-station)
